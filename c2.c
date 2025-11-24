@@ -250,3 +250,5 @@ void verificar_palindromo(const char *palabra) {
         printf("  -> **RESULTADO: La palabra NO es un palíndromo.**\n");
     }
 }
+
+//LUCAS ANDRES ESCUDERO - UTN-FRLR - INFORMATICA II
